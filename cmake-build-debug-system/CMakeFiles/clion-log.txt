@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/khan/Documents/Waste/timed-camera
+OpenCV version: 4.5.5
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/khan/Documents/Waste/timed-camera/cmake-build-debug-system

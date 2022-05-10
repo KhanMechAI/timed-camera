@@ -1,0 +1,25 @@
+# ninja log v5
+0	1065	1650000500136730590	CMakeFiles/timed-camera.dir/main.cpp.o	6d7a85ef5abeca4f
+1067	1132	1650000500208897778	timed-camera	2211cfcfda32d2cc
+2	1133	1650000792192831500	CMakeFiles/timed-camera.dir/main.cpp.o	6d7a85ef5abeca4f
+1133	1193	1650000792258452876	timed-camera	2211cfcfda32d2cc
+5	1092	1650000924251631234	CMakeFiles/timed-camera.dir/main.cpp.o	6d7a85ef5abeca4f
+1092	1146	1650000924310751840	timed-camera	2211cfcfda32d2cc
+2	1004	1650001281015637263	CMakeFiles/timed-camera.dir/main.cpp.o	6d7a85ef5abeca4f
+1004	1061	1650001281078406938	timed-camera	2211cfcfda32d2cc
+3	1074	1650001337448753023	CMakeFiles/timed-camera.dir/main.cpp.o	6d7a85ef5abeca4f
+1074	1131	1650001337511025891	timed-camera	2211cfcfda32d2cc
+3	1089	1650001366198509003	CMakeFiles/timed-camera.dir/main.cpp.o	6d7a85ef5abeca4f
+1089	1145	1650001366259494416	timed-camera	2211cfcfda32d2cc
+2	1083	1650001512493765163	CMakeFiles/timed-camera.dir/main.cpp.o	6d7a85ef5abeca4f
+1083	1139	1650001512555597851	timed-camera	2211cfcfda32d2cc
+2	889	1650001586893538306	CMakeFiles/timed-camera.dir/main.cpp.o	6d7a85ef5abeca4f
+889	946	1650001586953278265	timed-camera	2211cfcfda32d2cc
+2	1135	1650001605102015734	CMakeFiles/timed-camera.dir/main.cpp.o	6d7a85ef5abeca4f
+1135	1192	1650001605165682852	timed-camera	2211cfcfda32d2cc
+2	1078	1650001641188158082	CMakeFiles/timed-camera.dir/main.cpp.o	6d7a85ef5abeca4f
+1078	1136	1650001641251165431	timed-camera	2211cfcfda32d2cc
+2	1065	1650001958373042355	CMakeFiles/timed-camera.dir/main.cpp.o	6d7a85ef5abeca4f
+1065	1121	1650001958433671048	timed-camera	2211cfcfda32d2cc
+2	1093	1650002091845873617	CMakeFiles/timed-camera.dir/main.cpp.o	6d7a85ef5abeca4f
+1093	1149	1650002091907418088	timed-camera	2211cfcfda32d2cc
